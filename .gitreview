@@ -3,5 +3,4 @@ host=review.gerrithub.io
 port=29418
 project=StefanTischler/gerrit_test
 defaultbranch=master
-defaultremote=review
-defaultrebase=0
+defaultremote=origin
