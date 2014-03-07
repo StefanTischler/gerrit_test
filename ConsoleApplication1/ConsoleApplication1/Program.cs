@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //comment
             Console.WriteLine("Even more awesome");
             Console.ReadLine();
         }
